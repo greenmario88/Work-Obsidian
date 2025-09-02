@@ -2,5 +2,10 @@
   "calendar",
   "dataview",
   "obsidian-git",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-icon-folder",
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "colored-tags",
+  "callout-manager"
 ]
