@@ -22,35 +22,7 @@
             }
           },
           {
-            "id": "c2ac254ef95ec62f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Course Note Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Course Note Template"
-            }
-          },
-          {
             "id": "fef5c0ca85cfbcc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/UTA Certification Training Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UTA Certification Training Plan"
-            }
-          },
-          {
-            "id": "459ac99dad6ec6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +102,7 @@
       {
         "id": "3b328a498d02faf6",
         "type": "tabs",
+        "dimension": 65.60077519379846,
         "children": [
           {
             "id": "21de11424eb866e0",
@@ -185,23 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Training/UTA Certification Training Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "4ff7bb5833947f36",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of UTA Certification Training Plan"
             }
           },
           {
@@ -225,7 +188,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "d38492c222dba037",
+        "type": "tabs",
+        "dimension": 34.39922480620155,
+        "children": [
+          {
+            "id": "4ff7bb5833947f36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,23 +224,24 @@
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "cmdr:Split right": false
     }
   },
-  "active": "459ac99dad6ec6e7",
+  "active": "fef5c0ca85cfbcc5",
   "lastOpenFiles": [
-    "Job Description Compare.md",
-    "Training/UTA Certification Training Plan.md",
+    "Welcome.md",
     "Templates/Course Note Template.md",
+    "Training/UTA Certification Training Plan.md",
+    "Untitled.canvas",
+    "Job Description Compare.md",
     "This is a test for templates.md",
     "Testing.md",
     "Training/Untitled.md",
     "Training/OSHA 3015 - Excavation, Trenching and Soil Mechanics.md",
     "Untitled/desktop.ini",
     "Training",
-    "Welcome.md",
     "Templates",
-    "Untitled.canvas",
     "desktop.ini"
   ]
 }
